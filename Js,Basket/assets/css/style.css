@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+img{
+    height: 207px;
+}
+
+
+.main-text{
+   text-align: center;
+}
+
+.basket{
+    font-size: 25px;
+    margin-right: 25px;
+    position: relative;
+    color: red;
+    
+}
+
+
+sup{
+position: absolute;
+top:5px;
+font-size: 11px;
+color: red;
+
+}
+
+.basket-text{
+    text-align: center;
+    margin-top: 10px;
+}
+
+.delete-btn{
+   cursor: pointer;
+   color:red;
+}
